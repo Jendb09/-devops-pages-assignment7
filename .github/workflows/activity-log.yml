@@ -1,0 +1,23 @@
+
+name: Update activity log
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update GitHub activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: Jendb09
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
