@@ -19,7 +19,7 @@ A GitHub Pages website automatically updated from GitHub activity using GitHub A
 8. 📝 Committed to main in a private repository
 9. 📝 Committed to main in a private repository
 10. 📝 Committed to main in a private repository
-<!--END_SECTION:broken-->
+<!--END_SECTION:activity-->
 
 ## About this project
 
