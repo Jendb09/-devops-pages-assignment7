@@ -9,16 +9,16 @@ A GitHub Pages website automatically updated from GitHub activity using GitHub A
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [ntust-devops-group/devops-final-project](https://github.com/ntust-devops-group/devops-final-project/commit/d4e66a112722212866b8a022a4e1d4d9dab8d5f1)
-2. Added [ntust-devops-group/devops-final-project](https://github.com/ntust-devops-group/devops-final-project)
-3. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/77b6c0cd96cbf1ce2f1b39d396779aeef454b1d0)
-4. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/8632571026eef0d5dd6f4677bb8c54319fc23ac5)
-5. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/759f31ff9c2991fb2c1bc095fc234e4a1c0a92de)
-6. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/5f0b4df53f35ef81e648d5c302158a529ff5e39e)
-7. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/1b430fd50b780b8dd0f50e6270fae43e9944a17b)
-8. 🎉 Created a new branch main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/tree/main)
-9. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/f2700b4f62f90885827a7be9b02fc0546878f0ad)
-10. 📝 Committed to main in a private repository
+1. 📝 Committed to main in [ntust-devops-group/devops-final-project](https://github.com/ntust-devops-group/devops-final-project/commit/3aaaa60abd1340272ac9844353807b22c5ac6afd)
+2. 📝 Committed to main in [ntust-devops-group/devops-final-project](https://github.com/ntust-devops-group/devops-final-project/commit/d4e66a112722212866b8a022a4e1d4d9dab8d5f1)
+3. Added [ntust-devops-group/devops-final-project](https://github.com/ntust-devops-group/devops-final-project)
+4. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/77b6c0cd96cbf1ce2f1b39d396779aeef454b1d0)
+5. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/8632571026eef0d5dd6f4677bb8c54319fc23ac5)
+6. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/759f31ff9c2991fb2c1bc095fc234e4a1c0a92de)
+7. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/5f0b4df53f35ef81e648d5c302158a529ff5e39e)
+8. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/1b430fd50b780b8dd0f50e6270fae43e9944a17b)
+9. 🎉 Created a new branch main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/tree/main)
+10. 📝 Committed to main in [Jendb09/-devops-pages-assignment7](https://github.com/Jendb09/-devops-pages-assignment7/commit/f2700b4f62f90885827a7be9b02fc0546878f0ad)
 <!--END_SECTION:activity-->
 
 ## About this project
